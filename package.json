@@ -1,0 +1,46 @@
+
+{
+  "name": "glamorous-snippets",
+  "description": "Code snippets for glamorous",
+  "version": "1.1.0",
+  "displayName": "glamorous code snippets",
+  "publisher": "nitin",
+  "icon": "images/glam.png",
+  "galleryBanner": {
+    "theme": "light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nitin42/glamorous-snippets"
+  },
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+	  {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.json"
+	  },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "jsx",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
