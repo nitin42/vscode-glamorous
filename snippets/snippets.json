@@ -1,0 +1,597 @@
+{
+  "glamorous.text": {
+    "prefix": "gtext",
+    "body": [
+      "const ${1:Component} = glamorous.text({\n\n})"
+    ],
+    "description": "glamorous: text()"
+  },
+  "glamorous.view": {
+    "prefix": "gview",
+    "body": [
+      "const ${1:Component} = glamorous.view({\n\n})"
+    ],
+    "description": "glamorous: view()"
+  },
+  "glamorous.image": {
+    "prefix": "gimage",
+    "body": [
+      "const ${1:Component} = glamorous.image({\n\n})"
+    ],
+    "description": "glamorous: image()"
+  },
+  "glamorous.flatlist": {
+    "prefix": "gflat",
+    "body": [
+      "const ${1:Component} = glamorous.flatlist({\n\n})"
+    ],
+    "description": "glamorous: flatlist()"
+  },
+  "glamorous.listview": {
+    "prefix": "glist",
+    "body": [
+      "const ${1:Component} = glamorous.listview({\n\n})"
+    ],
+    "description": "glamorous: listview()"
+  },
+  "glamorous.scrollview": {
+    "prefix": "gscroll",
+    "body": [
+      "const ${1:Component} = glamorous.scrollview({\n\n})"
+    ],
+    "description": "glamorous: scrollview()"
+  },
+  "glamorous.sectionlist": {
+    "prefix": "gsection",
+    "body": [
+      "const ${1:Component} = glamorous.sectionlist({\n\n})"
+    ],
+    "description": "glamorous: sectionlist()"
+  },
+  "glamorous.touchablehighlight": {
+    "prefix": "ghighlight",
+    "body": [
+      "const ${1:Component} = glamorous.touchablehighlight({\n\n})"
+    ],
+    "description": "glamorous: touchablehighlight()"
+  },
+  "glamorous.touchablenativefeedback": {
+    "prefix": "gnative",
+    "body": [
+      "const ${1:Component} = glamorous.touchablenativefeedback({\n\n})"
+    ],
+    "description": "glamorous: touchablenativefeedback()"
+  },
+  "glamorous.touchableopacity": {
+    "prefix": "gopacity",
+    "body": [
+      "const ${1:Component} = glamorous.touchableopacity({\n\n})"
+    ],
+    "description": "glamorous: touchableopacity()"
+  },
+  "glamorous.textinput": {
+    "prefix": "ginput",
+    "body": [
+      "const ${1:Component} = glamorous.textinput({\n\n})"
+    ],
+    "description": "glamorous: textinput()"
+  },
+  "glamorous.h1": {
+    "prefix": "gh1",
+    "body": [
+      "const ${1:Component} = glamorous.h1({\n\n})"
+    ],
+    "description": "glamorous: h1()"
+  },
+  "glamorous.h4": {
+    "prefix": "gh4",
+    "body": [
+      "const ${1:Component} = glamorous.h4({\n\n})"
+    ],
+    "description": "glamorous: h4()"
+  },
+  "glamorous.h6": {
+    "prefix": "gh6",
+    "body": [
+      "const ${1:Component} = glamorous.h6({\n\n})"
+    ],
+    "description": "glamorous: h6()"
+  },
+  "glamorous.h5": {
+    "prefix": "gh5",
+    "body": [
+      "const ${1:Component} = glamorous.h5({\n\n})"
+    ],
+    "description": "glamorous: h5()"
+  },
+  "glamorous.h2": {
+    "prefix": "gh2",
+    "body": [
+      "const ${1:Component} = glamorous.h2({\n\n})"
+    ],
+    "description": "glamorous: h2()"
+  },
+  "glamorous.h3": {
+    "prefix": "gh3",
+    "body": [
+      "const ${1:Component} = glamorous.h3({\n\n})"
+    ],
+    "description": "glamorous: h3()"
+  },
+  "glamorous.p": {
+    "prefix": "gp",
+    "body": [
+      "const ${1:Component} = glamorous.p({\n\n})"
+    ],
+    "description": "glamorous: p()"
+  },
+  "glamorous.code": {
+    "prefix": "gcode",
+    "body": [
+      "const ${1:Component} = glamorous.code({\n\n})"
+    ],
+    "description": "glamorous: code()"
+  },
+  "glamorous.abbr": {
+    "prefix": "gabbr",
+    "body": [
+      "const ${1:Component} = glamorous.abbr({\n\n})"
+    ],
+    "description": "glamorous: abbr()"
+  },
+  "glamorous.address": {
+    "prefix": "gaddress",
+    "body": [
+      "const ${1:Component} = glamorous.address({\n\n})"
+    ],
+    "description": "glamorous: address()"
+  },
+  "glamorous.b": {
+    "prefix": "gb",
+    "body": [
+      "const ${1:Component} = glamorous.b({\n\n})"
+    ],
+    "description": "glamorous: b()"
+  },
+  "glamorous.blockquote": {
+    "prefix": "gblockquote",
+    "body": [
+      "const ${1:Component} = glamorous.blockquote({\n\n})"
+    ],
+    "description": "glamorous: blockquote()"
+  },
+  "glamorous.cite": {
+    "prefix": "gcite",
+    "body": [
+      "const ${1:Component} = glamorous.cite({\n\n})"
+    ],
+    "description": "glamorous: cite()"
+  },
+  "glamorous.del": {
+    "prefix": "gdel",
+    "body": [
+      "const ${1:Component} = glamorous.del({\n\n})"
+    ],
+    "description": "glamorous: del()"
+  },
+  "glamorous.em": {
+    "prefix": "gem",
+    "body": [
+      "const ${1:Component} = glamorous.em({\n\n})"
+    ],
+    "description": "glamorous: em()"
+  },
+  "glamorous.i": {
+    "prefix": "gi",
+    "body": [
+      "const ${1:Component} = glamorous.i({\n\n})"
+    ],
+    "description": "glamorous: i()"
+  },
+  "glamorous.ins": {
+    "prefix": "gins",
+    "body": [
+      "const ${1:Component} = glamorous.ins({\n\n})"
+    ],
+    "description": "glamorous: ins()"
+  },
+  "glamorous.pre": {
+    "prefix": "gpre",
+    "body": [
+      "const ${1:Component} = glamorous.pre({\n\n})"
+    ],
+    "description": "glamorous: pre()"
+  },
+  "glamorous.mark": {
+    "prefix": "gmark",
+    "body": [
+      "const ${1:Component} = glamorous.mark({\n\n})"
+    ],
+    "description": "glamorous: mark()"
+  },
+  "glamorous.meter": {
+    "prefix": "gmeter",
+    "body": [
+      "const ${1:Component} = glamorous.meter({\n\n})"
+    ],
+    "description": "glamorous: meter()"
+  },
+  "glamorous.progress": {
+    "prefix": "gprogress",
+    "body": [
+      "const ${1:Component} = glamorous.progress({\n\n})"
+    ],
+    "description": "glamorous: progress()"
+  },
+  "glamorous.q": {
+    "prefix": "gq",
+    "body": [
+      "const ${1:Component} = glamorous.q({\n\n})"
+    ],
+    "description": "glamorous: q()"
+  },
+  "glamorous.rp": {
+    "prefix": "grp",
+    "body": [
+      "const ${1:Component} = glamorous.rp({\n\n})"
+    ],
+    "description": "glamorous: rp()"
+  },
+  "glamorous.ruby": {
+    "prefix": "gruby",
+    "body": [
+      "const ${1:Component} = glamorous.ruby({\n\n})"
+    ],
+    "description": "glamorous: ruby()"
+  },
+  "glamorous.s": {
+    "prefix": "gs",
+    "body": [
+      "const ${1:Component} = glamorous.s({\n\n})"
+    ],
+    "description": "glamorous: s()"
+  },
+  "glamorous.samp": {
+    "prefix": "gsamp",
+    "body": [
+      "const ${1:Component} = glamorous.samp({\n\n})"
+    ],
+    "description": "glamorous: samp()"
+  },
+  "glamorous.header": {
+    "prefix": "gheader",
+    "body": [
+      "const ${1:Component} = glamorous.header({\n\n})"
+    ],
+    "description": "glamorous: header()"
+  },
+  "glamorous.u": {
+    "prefix": "gu",
+    "body": [
+      "const ${1:Component} = glamorous.u({\n\n})"
+    ],
+    "description": "glamorous: u()"
+  },
+  "glamorous.form": {
+    "prefix": "gform",
+    "body": [
+      "const ${1:Component} = glamorous.form({\n\n})"
+    ],
+    "description": "glamorous: form()"
+  },
+  "glamorous.input": {
+    "prefix": "ginp",
+    "body": [
+      "const ${1:Component} = glamorous.input({\n\n})"
+    ],
+    "description": "glamorous: input()"
+  },
+  "glamorous.textarea": {
+    "prefix": "gtextarea",
+    "body": [
+      "const ${1:Component} = glamorous.textarea({\n\n})"
+    ],
+    "description": "glamorous: textarea()"
+  },
+  "glamorous.button": {
+    "prefix": "gbutton",
+    "body": [
+      "const ${1:Component} = glamorous.button({\n\n})"
+    ],
+    "description": "glamorous: button()"
+  },
+  "glamorous.select": {
+    "prefix": "gselect",
+    "body": [
+      "const ${1:Component} = glamorous.select({\n\n})"
+    ],
+    "description": "glamorous: select()"
+  },
+  "glamorous.optgroup": {
+    "prefix": "goptgroup",
+    "body": [
+      "const ${1:Component} = glamorous.optgroup({\n\n})"
+    ],
+    "description": "glamorous: optgroup()"
+  },
+  "glamorous.option": {
+    "prefix": "goption",
+    "body": [
+      "const ${1:Component} = glamorous.option({\n\n})"
+    ],
+    "description": "glamorous: option()"
+  },
+  "glamorous.label": {
+    "prefix": "glabel",
+    "body": [
+      "const ${1:Component} = glamorous.label({\n\n})"
+    ],
+    "description": "glamorous: label()"
+  },
+  "glamorous.fieldset": {
+    "prefix": "gfieldset",
+    "body": [
+      "const ${1:Component} = glamorous.fieldset({\n\n})"
+    ],
+    "description": "glamorous: fieldset()"
+  },
+  "glamorous.legend": {
+    "prefix": "glegend",
+    "body": [
+      "const ${1:Component} = glamorous.legend({\n\n})"
+    ],
+    "description": "glamorous: legend()"
+  },
+  "glamorous.img": {
+    "prefix": "gimg",
+    "body": [
+      "const ${1:Component} = glamorous.img({\n\n})"
+    ],
+    "description": "glamorous: img()"
+  },
+  "glamorous.map": {
+    "prefix": "gmap",
+    "body": [
+      "const ${1:Component} = glamorous.map({\n\n})"
+    ],
+    "description": "glamorous: map()"
+  },
+  "glamorous.area": {
+    "prefix": "garea",
+    "body": [
+      "const ${1:Component} = glamorous.area({\n\n})"
+    ],
+    "description": "glamorous: area()"
+  },
+  "glamorous.a": {
+    "prefix": "ga",
+    "body": [
+      "const ${1:Component} = glamorous.a({\n\n})"
+    ],
+    "description": "glamorous: a()"
+  },
+  "glamorous.nav": {
+    "prefix": "gnav",
+    "body": [
+      "const ${1:Component} = glamorous.nav({\n\n})"
+    ],
+    "description": "glamorous: nav()"
+  },
+  "glamorous.ul": {
+    "prefix": "gul",
+    "body": [
+      "const ${1:Component} = glamorous.ul({\n\n})"
+    ],
+    "description": "glamorous: ul()"
+  },
+  "glamorous.li": {
+    "prefix": "gli",
+    "body": [
+      "const ${1:Component} = glamorous.li({\n\n})"
+    ],
+    "description": "glamorous: li()"
+  },
+  "glamorous.ol": {
+    "prefix": "gol",
+    "body": [
+      "const ${1:Component} = glamorous.ol({\n\n})"
+    ],
+    "description": "glamorous: ol()"
+  },
+  "glamorous.dl": {
+    "prefix": "gdl",
+    "body": [
+      "const ${1:Component} = glamorous.dl({\n\n})"
+    ],
+    "description": "glamorous: dl()"
+  },
+  "glamorous.dt": {
+    "prefix": "gdt",
+    "body": [
+      "const ${1:Component} = glamorous.dt({\n\n})"
+    ],
+    "description": "glamorous: dt()"
+  },
+  "glamorous.dd": {
+    "prefix": "gdd",
+    "body": [
+      "const ${1:Component} = glamorous.dd({\n\n})"
+    ],
+    "description": "glamorous: dd()"
+  },
+  "glamorous.menu": {
+    "prefix": "gmenu",
+    "body": [
+      "const ${1:Component} = glamorous.menu({\n\n})"
+    ],
+    "description": "glamorous: menu()"
+  },
+  "glamorous.table": {
+    "prefix": "gtable",
+    "body": [
+      "const ${1:Component} = glamorous.table({\n\n})"
+    ],
+    "description": "glamorous: table()"
+  },
+  "glamorous.caption": {
+    "prefix": "gcaption",
+    "body": [
+      "const ${1:Component} = glamorous.caption({\n\n})"
+    ],
+    "description": "glamorous: caption()"
+  },
+  "glamorous.th": {
+    "prefix": "gth",
+    "body": [
+      "const ${1:Component} = glamorous.th({\n\n})"
+    ],
+    "description": "glamorous: th()"
+  },
+  "glamorous.tr": {
+    "prefix": "gtr",
+    "body": [
+      "const ${1:Component} = glamorous.tr({\n\n})"
+    ],
+    "description": "glamorous: tr()"
+  },
+  "glamorous.td": {
+    "prefix": "gtd",
+    "body": [
+      "const ${1:Component} = glamorous.td({\n\n})"
+    ],
+    "description": "glamorous: td()"
+  },
+  "glamorous.thead": {
+    "prefix": "gthead",
+    "body": [
+      "const ${1:Component} = glamorous.thead({\n\n})"
+    ],
+    "description": "glamorous: thead()"
+  },
+  "glamorous.tbody": {
+    "prefix": "gtbody",
+    "body": [
+      "const ${1:Component} = glamorous.tbody({\n\n})"
+    ],
+    "description": "glamorous: tbody()"
+  },
+  "glamorous.tfoot": {
+    "prefix": "gtfoot",
+    "body": [
+      "const ${1:Component} = glamorous.tfoot({\n\n})"
+    ],
+    "description": "glamorous: tfoot()"
+  },
+  "glamorous.col": {
+    "prefix": "gcol",
+    "body": [
+      "const ${1:Component} = glamorous.col({\n\n})"
+    ],
+    "description": "glamorous: col()"
+  },
+  "glamorous.colgroup": {
+    "prefix": "gcolgroup",
+    "body": [
+      "const ${1:Component} = glamorous.colgroup({\n\n})"
+    ],
+    "description": "glamorous: colgroup()"
+  },
+  "glamorous.div": {
+    "prefix": "gdiv",
+    "body": [
+      "const ${1:Component} = glamorous.div({\n\n})"
+    ],
+    "description": "glamorous: div()"
+  },
+  "glamorous.span": {
+    "prefix": "gspan",
+    "body": [
+      "const ${1:Component} = glamorous.span({\n\n})"
+    ],
+    "description": "glamorous: span()"
+  },
+  "glamorous.sub": {
+    "prefix": "gsub",
+    "body": [
+      "const ${1:Component} = glamorous.sub({\n\n})"
+    ],
+    "description": "glamorous: sub()"
+  },
+  "glamorous.time": {
+    "prefix": "gtime",
+    "body": [
+      "const ${1:Component} = glamorous.time({\n\n})"
+    ],
+    "description": "glamorous: time()"
+  },
+  "glamorous.data": {
+    "prefix": "gdata",
+    "body": [
+      "const ${1:Component} = glamorous.datalist({\n\n})"
+    ],
+    "description": "glamorous: datalist()"
+  },
+  "glamorous.out": {
+    "prefix": "gout",
+    "body": [
+      "const ${1:Component} = glamorous.output({\n\n})"
+    ],
+    "description": "glamorous: output()"
+  },
+  "glamorous.footer": {
+    "prefix": "gfoot",
+    "body": [
+      "const ${1:Component} = glamorous.footer({\n\n})"
+    ],
+    "description": "glamorous: footer()"
+  },
+  "glamorous.main": {
+    "prefix": "gmain",
+    "body": [
+      "const ${1:Component} = glamorous.main({\n\n})"
+    ],
+    "description": "glamorous: main()"
+  },
+  "glamorous.section": {
+    "prefix": "gsec",
+    "body": [
+      "const ${1:Component} = glamorous.section({\n\n})"
+    ],
+    "description": "glamorous: section()"
+  },
+  "glamorous.article": {
+    "prefix": "garticle",
+    "body": [
+      "const ${1:Component} = glamorous.article({\n\n})"
+    ],
+    "description": "glamorous: article()"
+  },
+  "glamorous.aside": {
+    "prefix": "gaside",
+    "body": [
+      "const ${1:Component} = glamorous.aside({\n\n})"
+    ],
+    "description": "glamorous: aside()"
+  },
+  "glamorous.details": {
+    "prefix": "gdetail",
+    "body": [
+      "const ${1:Component} = glamorous.details({\n\n})"
+    ],
+    "description": "glamorous: details()"
+  },
+  "glamorous.dialog": {
+    "prefix": "gdial",
+    "body": [
+      "const ${1:Component} = glamorous.dialog({\n\n})"
+    ],
+    "description": "glamorous: dialog()"
+  },
+  "glamorous.summary": {
+    "prefix": "gsumm",
+    "body": [
+      "const ${1:Component} = glamorous.summary({\n\n})"
+    ],
+    "description": "glamorous: summary()"
+  }
+}
