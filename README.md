@@ -132,3 +132,13 @@ Below is a list of all available snippets and the triggers of each one. The ⇥ 
 | `gview→`      | `const Component = glamorous.view({})` |
 | `gimage→`      | `const Component = glamorous.image({})` |
 
+### NOTE
+
+I forgot to unpublish this 👇 extension (which was in beta)
+
+![second](https://i.gyazo.com/dfd653a485d0b4e7732aa259f3887047.png)
+
+and now it won't go because `vsce` denies my access token 😞 . So I won't be able to unpublish it. If you see this while searching for the extension, don't install it !
+
+Thank you!!
+
